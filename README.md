@@ -10,7 +10,7 @@ Currently at **Autodesk**, building and scaling the Analytics Data Platform used
 ## 🔧 What I Work With
 
 **Cloud & Infrastructure**  
-AWS (EMR, EKS, SageMaker, MSK) · Terraform · Kubernetes · Docker · Helm
+AWS (EMR, EKS, SageMaker, MSK, Glue, S3 etc) · Terraform · Kubernetes · Docker · Helm
 
 **CI/CD & GitOps**  
 Jenkins · GitLab CI/CD · ArgoCD · GitHub Actions
@@ -19,7 +19,7 @@ Jenkins · GitLab CI/CD · ArgoCD · GitHub Actions
 MLflow · Airflow · Spark · DBT · Snowflake · FastAPI
 
 **Observability**  
-Prometheus · Grafana · Datadog · KubeCost · InfluxDB · Splunk
+Prometheus · Grafana · Datadog · KubeCost · InfluxDB · Splunk · Dynatrace 
 
 **Security**  
 HashiCorp Vault · AWS IAM · Kyverno
